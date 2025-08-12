@@ -23,7 +23,7 @@ A beautiful, interactive birthday celebration website created with love for my g
    - Read the heartfelt birthday message
 
 ## Live Demo
-Visit the live website: [Your GitHub Pages URL will be here]
+🌐 **Visit the live website:** https://flashanish.github.io/gf-birthday/
 
 ## Technologies Used
 - HTML5
