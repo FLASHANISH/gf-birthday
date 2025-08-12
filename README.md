@@ -1,25 +1,26 @@
-# Interactive Birthday Celebration Website 🎉
+# GF Birthday Celebration Website 💝
 
-A beautiful, interactive birthday celebration website with animations, music, and personalized messages.
+A beautiful, interactive birthday celebration website created with love for my girlfriend, featuring animations, music, and heartfelt personalized messages.
 
 ## Features
-- 🎈 Interactive balloon animations
+- 🎈 Interactive balloon animations spelling her name
 - 🎵 Background birthday music
-- 🎂 Animated birthday cake with candles
-- 💡 Light effects and decorations
-- 📝 Personalized birthday messages
+- 🎂 Animated birthday cake with candles to blow out
+- 💡 Colorful light effects and decorations
+- 💌 Romantic and personalized birthday messages
 - 🎭 Step-by-step celebration sequence
+- 💖 Love-themed design and content
 
 ## How to Use
 1. Open `index.html` in your web browser
 2. Follow the interactive buttons to:
    - Turn on the lights
-   - Play background music
-   - Decorate the page
-   - Release balloons
-   - Show the cake
+   - Play romantic background music
+   - Decorate the page with love
+   - Release balloons with her name
+   - Show the birthday cake
    - Light the candles
-   - Read the birthday message
+   - Read the heartfelt birthday message
 
 ## Live Demo
 Visit the live website: [Your GitHub Pages URL will be here]
@@ -32,4 +33,4 @@ Visit the live website: [Your GitHub Pages URL will be here]
 - Interactive animations
 
 ---
-*Made with ❤️ for someone special*
+*Made with 💕 for my beloved girlfriend*
